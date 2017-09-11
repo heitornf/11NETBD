@@ -1,0 +1,14 @@
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\obj\Debug\11NETBD.csprojResolveAssemblyReference.cache
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\obj\Debug\11NETBD.csproj.GenerateResource.Cache
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\bin\Debug\EntityFramework.dll
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\bin\Debug\EntityFramework.xml
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Heito\OneDrive\Documentos\Visual Studio 2017\Projects\11NETBD\11NETBD\obj\Debug\WindowsFormsApp1.Migrations.initial.resources

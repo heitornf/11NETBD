@@ -12,5 +12,10 @@ namespace WindowsFormsApp1.Models
         public string Endereco { get; set; }
 
         public virtual ICollection<Cliente> Cliente { get; set; }
+
+        public override string ToString()
+        {
+            return "Id: " + Id + " End: " + Endereco;
+        }
     }
 }
